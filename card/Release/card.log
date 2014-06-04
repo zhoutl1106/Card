@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  ConfigDlg.cpp
+  MainFrm.cpp
+  card.cpp
+  cardDoc.cpp
+  cardView.cpp
+cardView.cpp(255): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  已完成代码的生成
+  card.vcxproj -> E:\Programming\Source Code\card\Release\card.exe
